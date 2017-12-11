@@ -1,0 +1,161 @@
+fileFormatVersion: 2
+guid: fcb829053606044c99711b9752c46ef7
+timeCreated: 1498145115
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: RECT_Flipper
+    100004: RECT_Grater
+    100006: RECT_Grater_MeshPart0
+    100008: RECT_Grater_MeshPart1
+    100010: RECT_Ladle
+    100012: RECT_Lrg Handle
+    100014: RECT_Masher
+    100016: RECT_Pan
+    100018: RECT_Pepper Shaker
+    100020: RECT_Pot
+    100022: RECT_Salt Shaker
+    100024: RECT_Scoop
+    100026: RECT_Skillet
+    100028: RECT_Sml Handle_Curved
+    100030: RECT_Sml Handle_Long
+    100032: RECT_Sml Handle_Short
+    100034: RECT_Spatula
+    400000: //RootNode
+    400002: RECT_Flipper
+    400004: RECT_Grater
+    400006: RECT_Grater_MeshPart0
+    400008: RECT_Grater_MeshPart1
+    400010: RECT_Ladle
+    400012: RECT_Lrg Handle
+    400014: RECT_Masher
+    400016: RECT_Pan
+    400018: RECT_Pepper Shaker
+    400020: RECT_Pot
+    400022: RECT_Salt Shaker
+    400024: RECT_Scoop
+    400026: RECT_Skillet
+    400028: RECT_Sml Handle_Curved
+    400030: RECT_Sml Handle_Long
+    400032: RECT_Sml Handle_Short
+    400034: RECT_Spatula
+    2300000: RECT_Flipper
+    2300002: RECT_Grater_MeshPart0
+    2300004: RECT_Grater_MeshPart1
+    2300006: RECT_Ladle
+    2300008: RECT_Lrg Handle
+    2300010: RECT_Masher
+    2300012: RECT_Pan
+    2300014: RECT_Pepper Shaker
+    2300016: RECT_Pot
+    2300018: RECT_Salt Shaker
+    2300020: RECT_Scoop
+    2300022: RECT_Skillet
+    2300024: RECT_Sml Handle_Curved
+    2300026: RECT_Sml Handle_Long
+    2300028: RECT_Sml Handle_Short
+    2300030: RECT_Spatula
+    3300000: RECT_Flipper
+    3300002: RECT_Grater_MeshPart0
+    3300004: RECT_Grater_MeshPart1
+    3300006: RECT_Ladle
+    3300008: RECT_Lrg Handle
+    3300010: RECT_Masher
+    3300012: RECT_Pan
+    3300014: RECT_Pepper Shaker
+    3300016: RECT_Pot
+    3300018: RECT_Salt Shaker
+    3300020: RECT_Scoop
+    3300022: RECT_Skillet
+    3300024: RECT_Sml Handle_Curved
+    3300026: RECT_Sml Handle_Long
+    3300028: RECT_Sml Handle_Short
+    3300030: RECT_Spatula
+    4300000: RECT_Lrg Handle
+    4300002: RECT_Grater_MeshPart0
+    4300004: RECT_Grater_MeshPart1
+    4300006: RECT_Masher
+    4300008: RECT_Ladle
+    4300010: RECT_Scoop
+    4300012: RECT_Spatula
+    4300014: RECT_Salt Shaker
+    4300016: RECT_Sml Handle_Curved
+    4300018: RECT_Sml Handle_Long
+    4300020: RECT_Pan
+    4300022: RECT_Sml Handle_Short
+    4300024: RECT_Skillet
+    4300026: RECT_Pot
+    4300028: RECT_Pepper Shaker
+    4300030: RECT_Flipper
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 3
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

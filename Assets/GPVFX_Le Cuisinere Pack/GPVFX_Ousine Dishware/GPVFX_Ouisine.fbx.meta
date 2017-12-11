@@ -1,0 +1,204 @@
+fileFormatVersion: 2
+guid: dd9fad4181826420c92d21c7707c7108
+timeCreated: 1498169177
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: BOWL
+    100002: Camera
+    100004: FORK_Salad
+    100006: GLASS_Red Wine
+    100008: GLASS_Tequila
+    100010: GLASS_Water
+    100012: GLASS_White Wine
+    100014: //RootNode
+    100016: OUI_FORK_Dessert
+    100018: OUI_FORK_Dinner
+    100020: OUI_FORK_Oyster
+    100022: OUI_Handle
+    100024: OUI_KNIFE_Butter
+    100026: OUI_KNIFE_Dinner
+    100028: OUI_Linen Napkin
+    100030: OUI_Linen Ring
+    100032: OUI_SPOON_Dessert
+    100034: OUI_SPOON_Soup
+    100036: PLATE_Bread and Butter
+    100038: PLATE_Dinner
+    100040: PLATE_Salad
+    100042: OUI_Handle.001
+    100044: OUI_Handle.002
+    100046: OUI_Handle.003
+    100048: OUI_Handle.004
+    100050: OUI_Handle.005
+    100052: OUI_Handle.006
+    100054: OUI_Handle.007
+    400000: BOWL
+    400002: Camera
+    400004: FORK_Salad
+    400006: GLASS_Red Wine
+    400008: GLASS_Tequila
+    400010: GLASS_Water
+    400012: GLASS_White Wine
+    400014: //RootNode
+    400016: OUI_FORK_Dessert
+    400018: OUI_FORK_Dinner
+    400020: OUI_FORK_Oyster
+    400022: OUI_Handle
+    400024: OUI_KNIFE_Butter
+    400026: OUI_KNIFE_Dinner
+    400028: OUI_Linen Napkin
+    400030: OUI_Linen Ring
+    400032: OUI_SPOON_Dessert
+    400034: OUI_SPOON_Soup
+    400036: PLATE_Bread and Butter
+    400038: PLATE_Dinner
+    400040: PLATE_Salad
+    400042: OUI_Handle.001
+    400044: OUI_Handle.002
+    400046: OUI_Handle.003
+    400048: OUI_Handle.004
+    400050: OUI_Handle.005
+    400052: OUI_Handle.006
+    400054: OUI_Handle.007
+    2300000: BOWL
+    2300002: FORK_Salad
+    2300004: GLASS_Red Wine
+    2300006: GLASS_Tequila
+    2300008: GLASS_Water
+    2300010: GLASS_White Wine
+    2300012: OUI_FORK_Dessert
+    2300014: OUI_FORK_Dinner
+    2300016: OUI_FORK_Oyster
+    2300018: OUI_Handle
+    2300020: OUI_KNIFE_Butter
+    2300022: OUI_KNIFE_Dinner
+    2300024: OUI_Linen Napkin
+    2300026: OUI_Linen Ring
+    2300028: OUI_SPOON_Dessert
+    2300030: OUI_SPOON_Soup
+    2300032: PLATE_Bread and Butter
+    2300034: PLATE_Dinner
+    2300036: PLATE_Salad
+    2300038: OUI_Handle.001
+    2300040: OUI_Handle.002
+    2300042: OUI_Handle.003
+    2300044: OUI_Handle.004
+    2300046: OUI_Handle.005
+    2300048: OUI_Handle.006
+    2300050: OUI_Handle.007
+    3300000: BOWL
+    3300002: FORK_Salad
+    3300004: GLASS_Red Wine
+    3300006: GLASS_Tequila
+    3300008: GLASS_Water
+    3300010: GLASS_White Wine
+    3300012: OUI_FORK_Dessert
+    3300014: OUI_FORK_Dinner
+    3300016: OUI_FORK_Oyster
+    3300018: OUI_Handle
+    3300020: OUI_KNIFE_Butter
+    3300022: OUI_KNIFE_Dinner
+    3300024: OUI_Linen Napkin
+    3300026: OUI_Linen Ring
+    3300028: OUI_SPOON_Dessert
+    3300030: OUI_SPOON_Soup
+    3300032: PLATE_Bread and Butter
+    3300034: PLATE_Dinner
+    3300036: PLATE_Salad
+    3300038: OUI_Handle.001
+    3300040: OUI_Handle.002
+    3300042: OUI_Handle.003
+    3300044: OUI_Handle.004
+    3300046: OUI_Handle.005
+    3300048: OUI_Handle.006
+    3300050: OUI_Handle.007
+    4300000: OUI_Linen Ring
+    4300002: OUI_Linen Napkin
+    4300004: OUI_Handle
+    4300006: OUI_FORK_Dessert
+    4300008: OUI_SPOON_Dessert
+    4300010: GLASS_Red Wine
+    4300012: GLASS_Tequila
+    4300014: GLASS_Water
+    4300016: GLASS_White Wine
+    4300018: PLATE_Salad
+    4300020: BOWL
+    4300022: OUI_KNIFE_Butter
+    4300024: PLATE_Bread and Butter
+    4300026: PLATE_Dinner
+    4300028: OUI_SPOON_Soup
+    4300030: OUI_FORK_Oyster
+    4300032: OUI_KNIFE_Dinner
+    4300034: FORK_Salad
+    4300036: OUI_FORK_Dinner
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

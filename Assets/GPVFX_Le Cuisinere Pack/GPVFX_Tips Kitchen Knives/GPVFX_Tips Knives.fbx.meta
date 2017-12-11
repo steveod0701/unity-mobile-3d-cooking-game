@@ -1,0 +1,205 @@
+fileFormatVersion: 2
+guid: 04cb155e7d29842a294ff78359069e73
+timeCreated: 1498076937
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Cube.000
+    100002: Cube.005
+    100004: Cube.006
+    100006: Cube.016
+    100008: Cube.017
+    100010: Cube.018
+    100012: Cube.021
+    100014: Cube.022
+    100016: Cube.029
+    100018: //RootNode
+    100020: TIPS_Boning Knife
+    100022: TIPS_Bread Knife
+    100024: TIPS_Bread Knife_MeshPart0
+    100026: TIPS_Bread Knife_MeshPart1
+    100028: TIPS_Carving Fork
+    100030: TIPS_Carving Knife
+    100032: TIPS_Chef Knife
+    100034: TIPS_Cleaver
+    100036: TIPS_Paring
+    100038: TIPS_Poison Dagger
+    100040: TIPS_Santoku Knife
+    100042: TIPS_Santoku Knife_MeshPart0
+    100044: TIPS_Santoku Knife_MeshPart1
+    100046: TIPS_Santoku Knife_MeshPart2
+    100048: The Nemean
+    100050: The Nemean_MeshPart0
+    100052: The Nemean_MeshPart1
+    100054: TIPS_Handle
+    400000: Cube.000
+    400002: Cube.005
+    400004: Cube.006
+    400006: Cube.016
+    400008: Cube.017
+    400010: Cube.018
+    400012: Cube.021
+    400014: Cube.022
+    400016: Cube.029
+    400018: //RootNode
+    400020: TIPS_Boning Knife
+    400022: TIPS_Bread Knife
+    400024: TIPS_Bread Knife_MeshPart0
+    400026: TIPS_Bread Knife_MeshPart1
+    400028: TIPS_Carving Fork
+    400030: TIPS_Carving Knife
+    400032: TIPS_Chef Knife
+    400034: TIPS_Cleaver
+    400036: TIPS_Paring
+    400038: TIPS_Poison Dagger
+    400040: TIPS_Santoku Knife
+    400042: TIPS_Santoku Knife_MeshPart0
+    400044: TIPS_Santoku Knife_MeshPart1
+    400046: TIPS_Santoku Knife_MeshPart2
+    400048: The Nemean
+    400050: The Nemean_MeshPart0
+    400052: The Nemean_MeshPart1
+    400054: TIPS_Handle
+    2300000: Cube.000
+    2300002: Cube.005
+    2300004: Cube.006
+    2300006: Cube.016
+    2300008: Cube.017
+    2300010: Cube.018
+    2300012: Cube.021
+    2300014: Cube.022
+    2300016: Cube.029
+    2300018: TIPS_Boning Knife
+    2300020: TIPS_Bread Knife_MeshPart0
+    2300022: TIPS_Bread Knife_MeshPart1
+    2300024: TIPS_Carving Fork
+    2300026: TIPS_Carving Knife
+    2300028: TIPS_Chef Knife
+    2300030: TIPS_Cleaver
+    2300032: TIPS_Paring
+    2300034: TIPS_Poison Dagger
+    2300036: TIPS_Santoku Knife_MeshPart0
+    2300038: TIPS_Santoku Knife_MeshPart1
+    2300040: TIPS_Santoku Knife_MeshPart2
+    2300042: The Nemean_MeshPart0
+    2300044: The Nemean_MeshPart1
+    2300046: TIPS_Handle
+    3300000: Cube.000
+    3300002: Cube.005
+    3300004: Cube.006
+    3300006: Cube.016
+    3300008: Cube.017
+    3300010: Cube.018
+    3300012: Cube.021
+    3300014: Cube.022
+    3300016: Cube.029
+    3300018: TIPS_Boning Knife
+    3300020: TIPS_Bread Knife_MeshPart0
+    3300022: TIPS_Bread Knife_MeshPart1
+    3300024: TIPS_Carving Fork
+    3300026: TIPS_Carving Knife
+    3300028: TIPS_Chef Knife
+    3300030: TIPS_Cleaver
+    3300032: TIPS_Paring
+    3300034: TIPS_Poison Dagger
+    3300036: TIPS_Santoku Knife_MeshPart0
+    3300038: TIPS_Santoku Knife_MeshPart1
+    3300040: TIPS_Santoku Knife_MeshPart2
+    3300042: The Nemean_MeshPart0
+    3300044: The Nemean_MeshPart1
+    3300046: TIPS_Handle
+    4300000: TIPS_Paring
+    4300002: Cube.018
+    4300004: TIPS_Carving Knife
+    4300006: Cube.016
+    4300008: TIPS_Carving Fork
+    4300010: Cube.006
+    4300012: TIPS_Boning Knife
+    4300014: Cube.022
+    4300016: TIPS_Santoku Knife_MeshPart0
+    4300018: TIPS_Santoku Knife_MeshPart1
+    4300020: TIPS_Santoku Knife_MeshPart2
+    4300022: Cube.021
+    4300024: TIPS_Bread Knife_MeshPart0
+    4300026: TIPS_Bread Knife_MeshPart1
+    4300028: Cube.017
+    4300030: Cube.005
+    4300032: Cube.000
+    4300034: Cube.029
+    4300036: TIPS_Poison Dagger
+    4300038: TIPS_Cleaver
+    4300040: TIPS_Chef Knife
+    4300042: The Nemean_MeshPart0
+    4300044: The Nemean_MeshPart1
+    4300046: TIPS_Handle
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 2
+    meshCompression: 3
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 1
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
